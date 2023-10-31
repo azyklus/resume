@@ -1,6 +1,6 @@
-# Cirriculum Vitae
+# Curriculum Vitae
 
-In this repository is located the cirriculum vitae of AZYKLUS for year 2023.
+In this repository is located the curriculum vitae of AZYKLUS for year 2023.
 
 ### How to build
 
