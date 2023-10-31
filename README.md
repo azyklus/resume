@@ -20,5 +20,5 @@ in the root directory of the repo.
 
 ### Pre-built
 
-You can find a prebuilt CV on the [Releases page](https://github.com/azyklus/cv/releases) of this repository.
+You can find a prebuilt CV on the [Releases page](https://github.com/azyklus/cv/releases) of this repository.  
 You may also download it from my website, [Other Skies Blog](https://mbp2.blog/u/@az/cirriculum-vitae)
